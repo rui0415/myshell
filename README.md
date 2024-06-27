@@ -3,7 +3,7 @@
 * パイプ機能は未実装
 
 ```
-git clone URL
+git clone git@github.com:rui0415/myshell.git
 gcc myshell.c -o myshell
 ./myshell
 ```
